@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuHome"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+
+    <item android:id="@+id/menuSOS"
+        android:icon="@drawable/ic_emergency"
+        android:title="SOS"/>
+
+    <item android:id="@+id/menuGroup"
+        android:icon="@drawable/ic_groups"
+        android:title="Travel Group"/>
+
+    <item android:id="@+id/menuMedical"
+        android:icon="@drawable/ic_medical_information"
+        android:title="Medical Information"/>
+
+    <item android:id="@+id/menuEmergencyContacts"
+        android:icon="@drawable/ic_contact_emergency"
+        android:title="Emergency Contacts"/>
+
+    <item android:id="@+id/menuNotifications"
+        android:icon="@drawable/ic_notifications"
+        android:title="Notifications"/>
+
+    <item android:id="@+id/menuSettings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"/>
+
+    <item android:id="@+id/menuHelp"
+        android:icon="@drawable/ic_help"
+        android:title="Help"/>
+
+    <item android:id="@+id/menuAbout"
+        android:icon="@drawable/ic_info"
+        android:title="About"/>
+
+    <item android:id="@+id/menuLogout"
+        android:icon="@drawable/ic_logout"
+        android:title="Logout"/>
+</menu>

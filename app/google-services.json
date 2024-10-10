@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758954465980",
+    "firebase_url": "https://nytesafev0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nytesafev0",
+    "storage_bucket": "nytesafev0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758954465980:android:16e5b29f7781719758ceb9",
+        "android_client_info": {
+          "package_name": "com.example.nytesafev0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758954465980-2tufq05911qb8ccjou9d2hkrrb6nsjlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqEUbulV3Z34t8ySuGiCCvvdU0DIwW5i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758954465980-2tufq05911qb8ccjou9d2hkrrb6nsjlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
